@@ -1,0 +1,62 @@
+<annotation>
+	<folder>training</folder>
+	<filename>IMG_20220121_122228.jpg</filename>
+	<path>C:\Users\Administrator\Downloads\Work\Senior Design Project\self-driving-robot-algo\sign detection\images\training\IMG_20220121_122228.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>118</ymin>
+			<xmax>905</xmax>
+			<ymax>1255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1456</xmin>
+			<ymin>452</ymin>
+			<xmax>2108</xmax>
+			<ymax>1212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2550</xmin>
+			<ymin>385</ymin>
+			<xmax>3329</xmax>
+			<ymax>1152</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3653</xmin>
+			<ymin>346</ymin>
+			<xmax>4511</xmax>
+			<ymax>1240</ymax>
+		</bndbox>
+	</object>
+</annotation>
